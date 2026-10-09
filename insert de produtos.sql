@@ -1,0 +1,16 @@
+INSERT INTO produtos (nome_produto, categoria, preco, estoque) VALUES
+('Camiseta Básica', 'Roupas', 39.90, 100),
+('Calça Jeans', 'Roupas', 119.90, 40),
+('Tênis Esportivo', 'Calçados', 249.90, 25),
+('Chinelo', ' Calçados', 29.90, 80),
+('Mochila', 'Acessórios', 89.90, 30),
+('Boné', 'acessórios', 34.90, 60),
+('Fone de Ouvido', 'Eletrônicos', 79.90, 45),
+('Carregador USB', 'Eletrônicos', 49.90, 70),
+('Garrafa Térmica', 'Casa', 59.90, 35),
+('Caneca', 'Casa', 19.90, 90),
+('Jaqueta', 'Roupas', 199.90, 15),
+('Meia (par)', 'roupas', 12.90, 200),
+('Relógio Digital', 'Acessórios', 149.90, 20),
+('Mouse sem Fio', 'Eletrônicos', 69.90, 0),
+('Cinto', 'Acessórios', 44.90, 50);
