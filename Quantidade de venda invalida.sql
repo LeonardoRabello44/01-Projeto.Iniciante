@@ -1,0 +1,1 @@
+SELECT * FROM vendas WHERE quantidade <= 0;
