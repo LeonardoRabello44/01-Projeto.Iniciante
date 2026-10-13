@@ -1,0 +1,1 @@
+UPDATE clientes SET nome = TRIM(nome);

@@ -1,0 +1,1 @@
+DELETE FROM clientes WHERE id_cliente IN (17, 18);

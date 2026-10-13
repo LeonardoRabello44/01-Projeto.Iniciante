@@ -1,0 +1,1 @@
+UPDATE clientes SET email = LOWER(TRIM(email));

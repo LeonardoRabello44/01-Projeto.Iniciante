@@ -1,0 +1,1 @@
+DELETE FROM vendas WHERE quantidade <= 0;
