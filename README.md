@@ -178,7 +178,7 @@ O que pratiquei neste projeto
 `HAVING`, `INNER JOIN`, `TRIM`, `UPPER`, `LOWER`, `COALESCE`, `CASE WHEN`, 
 `MONTH`, `ALTER TABLE` com `UNIQUE` e `CHECK`.
 
-Limitações (simplificações de projeto iniciante)
+Limitações (simplificações de projeto)
 
 - Cada venda tem um único produto (não há tabela de itens do pedido).
 - O preço usado nos cálculos é o preço atual do produto (não há histórico de preços).
