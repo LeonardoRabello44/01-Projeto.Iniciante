@@ -165,7 +165,7 @@ ORDER BY estoque;
 
 Principais insights
 
-- Produto mais vendido: Meia (par) 20 unidades
+- Produto mais vendido: Meia (par) - 20 unidades
 - Categoria que mais fatura: Roupas - R$ 6972,40
 - Forma de pagamento mais usada: Pix - 40 vezes
 - Mês de maior faturamento: Mes 05 - R$ 5147,60
